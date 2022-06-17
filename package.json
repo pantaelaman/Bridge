@@ -1,0 +1,19 @@
+{
+  "name": "bridge",
+  "version": "0.0.0",
+  "description": "A multiplayer bridge game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantaelaman/Bridge.git"
+  },
+  "author": "Calvin C Ophoff",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/pantaelaman/Bridge/issues"
+  },
+  "homepage": "https://github.com/pantaelaman/Bridge#readme"
+}
